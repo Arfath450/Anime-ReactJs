@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Anime-ReactJs/static/css/main.22358d6b.chunk.css",
-    "main.js": "/Anime-ReactJs/static/js/main.58b6fd9a.chunk.js",
-    "main.js.map": "/Anime-ReactJs/static/js/main.58b6fd9a.chunk.js.map",
+    "main.js": "/Anime-ReactJs/static/js/main.7ae20565.chunk.js",
+    "main.js.map": "/Anime-ReactJs/static/js/main.7ae20565.chunk.js.map",
     "runtime-main.js": "/Anime-ReactJs/static/js/runtime-main.262b8f46.js",
     "runtime-main.js.map": "/Anime-ReactJs/static/js/runtime-main.262b8f46.js.map",
     "static/js/2.d4438c53.chunk.js": "/Anime-ReactJs/static/js/2.d4438c53.chunk.js",
     "static/js/2.d4438c53.chunk.js.map": "/Anime-ReactJs/static/js/2.d4438c53.chunk.js.map",
     "index.html": "/Anime-ReactJs/index.html",
-    "precache-manifest.58a67363ad746d9898e16c4e241b197d.js": "/Anime-ReactJs/precache-manifest.58a67363ad746d9898e16c4e241b197d.js",
+    "precache-manifest.bf42d36802e6a748235ed90ebfa74868.js": "/Anime-ReactJs/precache-manifest.bf42d36802e6a748235ed90ebfa74868.js",
     "service-worker.js": "/Anime-ReactJs/service-worker.js",
     "static/css/main.22358d6b.chunk.css.map": "/Anime-ReactJs/static/css/main.22358d6b.chunk.css.map",
     "static/js/2.d4438c53.chunk.js.LICENSE.txt": "/Anime-ReactJs/static/js/2.d4438c53.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.262b8f46.js",
     "static/js/2.d4438c53.chunk.js",
     "static/css/main.22358d6b.chunk.css",
-    "static/js/main.58b6fd9a.chunk.js"
+    "static/js/main.7ae20565.chunk.js"
   ]
 }
