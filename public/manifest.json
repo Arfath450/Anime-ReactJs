@@ -1,0 +1,25 @@
+{
+  "short_name": "Mak Anime",
+  "name": "Mak Anime",
+  "icons": [
+    {
+      "src": "anime.ico",
+      "sizes": "192x512",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "anime.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "anime.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#fff",
+  "background_color": "#000"
+}
